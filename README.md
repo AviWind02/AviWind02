@@ -1,7 +1,11 @@
 
 # :wave: ME
 
-- 👋 Hi, I’m @AviWind02
+My name is Avi. I love to develop. Some stuff i make are mods for games. My codes never the best but i like to learn :)  
+
+# Tools
+
+
 - 👀 I’m interested in creating 
   - game 
   - mods
@@ -15,7 +19,7 @@
   - Apps in C#
     -  Just the normal winform     
 - 📫 How to reach me
-  - Discord Avi#1337
+
 
 
 
