@@ -1,7 +1,7 @@
 
 # :wave: ME
 
-## My name is Avi. I love to develop. Some stuff i make are mods for games. My code is never the cleanest  but i like to learn and improve :)  
+## My name is Avi. I love to develop. Some stuff i make are mods for games. My code is somewhat clean (I try my best) but i like to learn and improve :)  
 
 # Tools
 
@@ -18,13 +18,4 @@
     - ImGui
   - Apps in C#
     -  Just the normal winform     
-- 📫 How to reach me
 
-
-
-
-
-<!---
-AviWind02/AviWind02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
