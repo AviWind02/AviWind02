@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in creating 
   - Games 
-  - mods/Scripts
+  - Scripts
 - 🌱 I’m currently learning 
   - how to make fun scripts(Mods) for games 
     - GTA 5
