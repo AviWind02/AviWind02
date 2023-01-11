@@ -1,7 +1,7 @@
 
 # :wave: ME
 
-## My name is Avi. I love to develop. Some stuff i make are mods for games. My code is somewhat clean (I try my best) but i like to learn and improve :)  
+## My name is Avi. I love to develop. Some stuff I make are mods for games. I love programming and I always like to learn and improve!  
 
 # Tools
 
