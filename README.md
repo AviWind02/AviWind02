@@ -1,5 +1,5 @@
 
-# :wave: ME
+# :wave:
 
 ## My name is Avi. I love to develop. Some stuff I make are mods for games. I love programming and I always like to learn and improve!  
 
